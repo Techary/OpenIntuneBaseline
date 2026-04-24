@@ -198,7 +198,7 @@
           {
             "@odata.type": "#microsoft.graph.deviceManagementConfigurationStringSettingValue",
             "settingValueTemplateReference": null,
-            "value": "This computer system is the property of Techary and is authorised for use by employees and designated contractors only. Users have no explicit or implicit expectation of privacy whilst using the applications, infrastructure and services provided by Techary. Any or all users of this system and all files on this system may be intercepted, monitored, recorded, copied, audited, inspected and disclosed to authorised site, company and law enforcement personnel."
+            "value": "This computer system is the property of %customer_name% and is authorised for use by employees and designated contractors only. Users have no explicit or implicit expectation of privacy whilst using the applications, infrastructure and services provided by %customer_name%. Any or all users of this system and all files on this system may be intercepted, monitored, recorded, copied, audited, inspected and disclosed to authorised site, company and law enforcement personnel."
           }
         ]
       },
