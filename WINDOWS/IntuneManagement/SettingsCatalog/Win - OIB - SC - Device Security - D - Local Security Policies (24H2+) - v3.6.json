@@ -1,14 +1,14 @@
 {
   "@odata.context": "https://graph.microsoft.com/beta/$metadata#deviceManagement/configurationPolicies(assignments(),settings())/$entity",
   "@odata.type": "#microsoft.graph.deviceManagementConfigurationPolicy",
-  "@odata.id": "deviceManagement/configurationPolicies(\u0027b1947ff6-8a1b-4f47-b313-1aaa5df282f6\u0027)",
-  "@odata.editLink": "deviceManagement/configurationPolicies(\u0027b1947ff6-8a1b-4f47-b313-1aaa5df282f6\u0027)",
+  "@odata.id": "deviceManagement/configurationPolicies('7848bcb6-6cd3-43a4-9781-b27b54bb3524')",
+  "@odata.editLink": "deviceManagement/configurationPolicies('7848bcb6-6cd3-43a4-9781-b27b54bb3524')",
   "createdDateTime@odata.type": "#DateTimeOffset",
-  "createdDateTime": "2025-09-15T13:05:17.3824512Z",
+  "createdDateTime": "2025-04-01T14:02:22.8385908Z",
   "creationSource": null,
-  "description": "NOTE: For 24H2+ devices only. Disables built-in Administrator account.",
+  "description": "NOTE: For 24H2+ devices only. Disables built-in Administrator account.\nOIBID:D2432603-BDF5-4730-9A7D-ED7C489FA80A",
   "lastModifiedDateTime@odata.type": "#DateTimeOffset",
-  "lastModifiedDateTime": "2025-10-03T10:47:33.0250112Z",
+  "lastModifiedDateTime": "2025-05-12T13:28:34.0641412Z",
   "name": "Win - OIB - SC - Device Security - D - Local Security Policies (24H2+) - v3.6",
   "platforms@odata.type": "#microsoft.graph.deviceManagementConfigurationPlatforms",
   "platforms": "windows10",
@@ -17,10 +17,10 @@
   "roleScopeTagIds": [
     "0"
   ],
-  "settingCount": 28,
+  "settingCount": 23,
   "technologies@odata.type": "#microsoft.graph.deviceManagementConfigurationTechnologies",
   "technologies": "mdm",
-  "id": "b1947ff6-8a1b-4f47-b313-1aaa5df282f6",
+  "id": "7848bcb6-6cd3-43a4-9781-b27b54bb3524",
   "templateReference": {
     "@odata.type": "#microsoft.graph.deviceManagementConfigurationPolicyTemplateReference",
     "templateId": "",
